@@ -1,1 +1,170 @@
-{"accounts":[{"name":"BANK","currency":"INR","color":-9744897,"orderNum":1.0,"id":"ec670bf1-3552-41f0-8136-a0035562ed4a"},{"name":"SAVINGS","currency":"INR","color":-12196122,"orderNum":7.0,"id":"4bfcbeb3-2569-43db-a33a-008a7034b264"}],"budgets":[{"name":"March 2024","amount":21700.0,"categoryIdsSerialized":"447d7c2b-d694-4d69-9f51-ec084a7c1a37,fde8bd50-c1f7-489c-9f35-010e24a07cd7,51cd332a-5339-41fb-8e5b-01e450eeb303,b5fef5de-abb2-40cc-a0fd-eb8bacc428e1,4884b5d4-70a6-41de-b5f8-31f823bcf0d4,7608dd45-ef2c-4cbc-963f-3d711ba5b41b,8f5d2a9f-0a40-460f-95ce-1d20eac6437f","accountIdsSerialized":"","orderId":0.0,"id":"6710407a-3c35-4565-a5bc-7002de0a51ba"},{"name":"EMI RENT","amount":30000.0,"categoryIdsSerialized":"c78c9d08-f860-4168-bd75-5f3a8c3d5ce6","accountIdsSerialized":"","orderId":1.0,"id":"fcf09b44-c02b-44cc-a5f3-b355f0acd897"}],"categories":[{"name":"Food","color":-9744897,"icon":"fooddrink","id":"447d7c2b-d694-4d69-9f51-ec084a7c1a37"},{"name":"Travel","color":-9221353,"icon":"transport","orderNum":1.0,"id":"fde8bd50-c1f7-489c-9f35-010e24a07cd7"},{"name":"Entertainment","color":-12223514,"icon":"atom","orderNum":2.0,"id":"51cd332a-5339-41fb-8e5b-01e450eeb303"},{"name":"Bills & Fees","color":-49056,"icon":"bills","orderNum":3.0,"id":"b5fef5de-abb2-40cc-a0fd-eb8bacc428e1"},{"name":"Shopping","color":-9744897,"icon":"shopping","orderNum":4.0,"id":"4884b5d4-70a6-41de-b5f8-31f823bcf0d4"},{"name":"Groceries","color":-13293952,"icon":"groceries","orderNum":5.0,"id":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b"},{"name":"Other","color":-12196122,"orderNum":6.0,"id":"8f5d2a9f-0a40-460f-95ce-1d20eac6437f"},{"name":"RENT","color":-2765569,"icon":"ic_vue_building_building1","orderNum":7.0,"id":"c78c9d08-f860-4168-bd75-5f3a8c3d5ce6"},{"name":"Medicine","color":-15414114,"orderNum":8.0,"id":"30e46417-4704-4eab-be21-02246a5e8f28"},{"name":"FUEL","color":-4557,"orderNum":9.0,"id":"61cf3987-ee1e-46e2-b237-ece1ca89d4fa"},{"name":"RELATIVES","color":-45914,"orderNum":11.0,"id":"1c53aebf-3e7b-4c9e-89d8-40cbb69df94a"},{"name":"EMI","color":-9744897,"orderNum":12.0,"id":"030c58c3-843c-4dc8-8cbf-f1af47b8ebe1"},{"name":"SONY","color":-8378797,"orderNum":13.0,"id":"1d7217dc-f818-4e0e-ab75-b4f91db6f46d"},{"name":"Fruits and Vegetables","color":-8358119,"orderNum":14.0,"id":"dfc9f32f-ad84-4f67-86f1-136d73e4aa90"},{"name":"Balance Adjust","color":-10078433,"orderNum":15.0,"id":"9b73ade6-19a7-4acb-941e-12083a3855b9"},{"name":"Salary","color":-15414114,"orderNum":16.0,"id":"c5b9bada-f74f-49a5-b1aa-5218d2b7258d"}],"settings":[{"theme":"DARK","currency":"INR","bufferAmount":0.0,"name":"Avani","id":"e72e9511-54b7-429a-8c3d-38fa66977fd4"}],"transactions":[{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"INCOME","amount":39820.0,"toAmount":39820.0,"title":"Innominds March 24","dateTime":1711909800000,"categoryId":"c5b9bada-f74f-49a5-b1aa-5218d2b7258d","id":"9023777b-98d6-48be-a87d-e574c51ef035"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":2700.0,"toAmount":2700.0,"title":"Vadhina EMI","dateTime":1711909800000,"categoryId":"8f5d2a9f-0a40-460f-95ce-1d20eac6437f","id":"1e9e5128-7b3d-43f7-963e-306418aae4f0"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":205.0,"toAmount":205.0,"dateTime":1711897173003,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"d36d9b4a-d39c-488b-9350-ec8d92d11d0b"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"INCOME","amount":7197.8,"toAmount":7197.8,"dateTime":1711865210373,"categoryId":"9b73ade6-19a7-4acb-941e-12083a3855b9","id":"50df44b4-45ca-4924-9a9e-34fef7f89bf3"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":700.0,"toAmount":700.0,"dateTime":1711859659033,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"913db82a-5691-4580-9f61-636dd4e714e0"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":96.0,"toAmount":96.0,"dateTime":1711859652767,"categoryId":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b","id":"152b0ea1-c463-4db0-8f33-88ca1a2191aa"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":538.0,"toAmount":538.0,"title":"KFC","dateTime":1711822485744,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"4279c879-f279-4337-8232-ca90f283ef31"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":50.0,"toAmount":50.0,"title":"Mirchi Bajji","dateTime":1711822460470,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"517a266c-770a-457b-a7bb-16fedb42ea66"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":99.0,"toAmount":99.0,"title":"Volini","dateTime":1711822444772,"categoryId":"30e46417-4704-4eab-be21-02246a5e8f28","id":"c5d79540-ba87-4658-8da9-1d9aab71a4fa"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":455.0,"toAmount":455.0,"dateTime":1711822343668,"categoryId":"dfc9f32f-ad84-4f67-86f1-136d73e4aa90","id":"12ca3889-62e7-4655-ab28-4b2ed628e6a2"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":203.0,"toAmount":203.0,"dateTime":1711679386691,"categoryId":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b","id":"7b51c026-924c-4491-95c5-854fcd9eef5b"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":2000.0,"toAmount":2000.0,"dateTime":1711564089175,"categoryId":"1c53aebf-3e7b-4c9e-89d8-40cbb69df94a","id":"74cb9b7f-3599-4927-abbc-0ec265678300"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":2228.0,"toAmount":2228.0,"title":"D MART","dateTime":1711559349891,"categoryId":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b","id":"7c76ea1b-a5f5-4bf6-a70a-fd94258b027a"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":95.0,"toAmount":95.0,"title":"Tiffin","dateTime":1711510440227,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"a2db77ee-7aff-4912-a8e7-5f16485e606e"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":70.0,"toAmount":70.0,"title":"tiffin","dateTime":1711425975476,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"950093ea-31b1-4b88-a611-06f20a5c157c"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":522.0,"toAmount":522.0,"dateTime":1711423436422,"categoryId":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b","id":"287081ef-518f-47f0-b33d-1baa643a916f"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":141.0,"toAmount":141.0,"title":"Cab","dateTime":1711394561666,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"67c35a5a-6380-4a55-9fd7-7f5562592e40"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":70.0,"toAmount":70.0,"title":"Juice","dateTime":1711379287788,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"8a554024-2cb9-42da-9908-27b32b6a29f9"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":360.0,"toAmount":360.0,"title":"ఫలుధ","dateTime":1711290956335,"categoryId":"8f5d2a9f-0a40-460f-95ce-1d20eac6437f","id":"8e957f9c-59d3-4d71-9d84-858f4c253839"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":882.0,"toAmount":882.0,"title":"KPHB","dateTime":1711284285150,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"9992a193-8c4d-4737-ac3c-a3578f5fee4b"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":440.0,"toAmount":440.0,"title":"Bakery","dateTime":1711175400000,"categoryId":"8f5d2a9f-0a40-460f-95ce-1d20eac6437f","id":"30e37bf9-6dc0-404f-8fac-57bcd7f4d67e"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":80.0,"toAmount":80.0,"dateTime":1711121507122,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"4bc9415e-943f-4256-86a9-8b3045d37127"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":300.0,"toAmount":300.0,"dateTime":1711121491007,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"4cf4c592-97d1-432b-a47d-d2abc3106720"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":30.0,"toAmount":30.0,"dateTime":1711115393155,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"15207b52-8081-40d9-9317-85b93fd8e963"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":116.0,"toAmount":116.0,"dateTime":1711115386946,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"2468089f-b976-47a7-a4cc-6d66dacd62f9"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":2784.0,"toAmount":2784.0,"dateTime":1711006418849,"categoryId":"030c58c3-843c-4dc8-8cbf-f1af47b8ebe1","id":"042451cf-83d7-4ba2-98dd-7cda1660f8b8"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":35.0,"toAmount":35.0,"dateTime":1710957926678,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"082cfd5b-4581-4bcb-b465-acd7747ea487"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":198.0,"toAmount":198.0,"dateTime":1710957769228,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"152930a4-d661-4755-9520-303a0a5e4603"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":264.0,"toAmount":264.0,"dateTime":1710829800000,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"35f7b051-6f56-4758-bb5b-99b9ebc3ab70"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":30.0,"toAmount":30.0,"dateTime":1710829800000,"categoryId":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b","id":"db00fdd9-a22d-40af-8f11-7c85ca0b47c7"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":513.0,"toAmount":513.0,"dateTime":1710779876292,"categoryId":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b","id":"32651a58-0f2c-41d2-9f2f-c1b41e15bc79"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":205.0,"toAmount":205.0,"title":"","dateTime":1710779795676,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"9a3b49fb-665a-407b-b47b-79d33a723e30"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":1500.0,"toAmount":1500.0,"dateTime":1710756998289,"categoryId":"1c53aebf-3e7b-4c9e-89d8-40cbb69df94a","id":"fd52ef81-abe4-48e7-8a8f-636a83cd48c2"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":200.0,"toAmount":200.0,"dateTime":1710743762927,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"95fb00ae-b100-4e74-9775-80e6d081d222"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":452.0,"toAmount":452.0,"dateTime":1710743701736,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"fb168706-b111-44c6-8d26-cedf580a95db"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":120.0,"toAmount":120.0,"dateTime":1710342759670,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"9521af96-071f-4507-bdef-854280d8e53e"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":415.0,"toAmount":415.0,"dateTime":1710342737544,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"03309917-3af6-4b17-8408-744d2fc7d382"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":221.0,"toAmount":221.0,"dateTime":1710256482655,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"661dc4e5-5c1a-42e8-9b04-2f7fff234766"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":500.0,"toAmount":500.0,"dateTime":1710256358662,"categoryId":"61cf3987-ee1e-46e2-b237-ece1ca89d4fa","id":"6c61fa78-882f-4228-b130-4b42c363c95e"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":70.0,"toAmount":70.0,"dateTime":1710138600000,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"407a2dfd-00cf-4fd0-911c-7322ee670ee1"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":287.0,"toAmount":287.0,"dateTime":1710138600000,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"fb6f1cfd-a536-414f-b6e9-5351e75260ca"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":105.0,"toAmount":105.0,"title":"Temple","dateTime":1709879400000,"categoryId":"8f5d2a9f-0a40-460f-95ce-1d20eac6437f","id":"6f28939c-da16-4543-a017-018c3f28e738"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":677.0,"toAmount":677.0,"dateTime":1709838611561,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"1fdd7ed4-750c-4b91-8117-51a4d0dedf39"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":382.0,"toAmount":382.0,"dateTime":1709800646524,"categoryId":"30e46417-4704-4eab-be21-02246a5e8f28","id":"b1f4eeca-793f-449a-86cf-a63b4e9922b0"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":205.0,"toAmount":205.0,"dateTime":1709800614864,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"15e54df6-0ef1-47ea-bdf8-f54298d0aed8"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":6664.0,"toAmount":6664.0,"title":"BIKE","dateTime":1709793000000,"categoryId":"030c58c3-843c-4dc8-8cbf-f1af47b8ebe1","id":"33b99c9e-076c-481c-8044-c38ac7c3efd7"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":120.0,"toAmount":120.0,"dateTime":1709709637009,"categoryId":"7608dd45-ef2c-4cbc-963f-3d711ba5b41b","id":"5a519d3f-e644-4836-8a42-4ddd961f6676"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":290.0,"toAmount":290.0,"dateTime":1709709629469,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"dc1f7d66-c27f-4161-884a-ad24857964ab"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":50.0,"toAmount":50.0,"dateTime":1709650735946,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"9572f7bb-6e55-461d-9386-129e9db84641"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":154.0,"toAmount":154.0,"dateTime":1709553701336,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"8f63e638-dee0-4497-bdb6-ee8c753a01e4"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":160.0,"toAmount":160.0,"dateTime":1709522456068,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"49d7fcae-5cf7-4619-a5e5-49518cf77043"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":368.0,"toAmount":368.0,"dateTime":1709488346176,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"fddd6605-9ecb-4dea-bc4c-812b44cdec30"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":17842.0,"toAmount":17842.0,"title":"RENT","dateTime":1709475733731,"categoryId":"c78c9d08-f860-4168-bd75-5f3a8c3d5ce6","id":"c3f771cf-c4da-4b04-8112-fd3980febf31"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":471.0,"toAmount":471.0,"title":"BSNL","description":"BSNL","dateTime":1709447400000,"categoryId":"b5fef5de-abb2-40cc-a0fd-eb8bacc428e1","id":"294f80c8-42ed-4d18-b8cb-456092cf74f7"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":290.0,"toAmount":290.0,"title":"Park Karimnagar","dateTime":1709361000000,"categoryId":"51cd332a-5339-41fb-8e5b-01e450eeb303","id":"1562b861-cc2c-4bb7-85fe-3495d659f8e7"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":2492.0,"toAmount":2492.0,"title":"BED","dateTime":1709361000000,"categoryId":"030c58c3-843c-4dc8-8cbf-f1af47b8ebe1","id":"17b12a91-f274-4fa3-8ad8-9086c27505ee"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"INCOME","amount":32751.0,"toAmount":32751.0,"title":"Adjust balance","dateTime":1709274600000,"id":"a9299e96-0876-4499-9022-857796a984bb"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":368.0,"toAmount":368.0,"dateTime":1709274600000,"categoryId":"fde8bd50-c1f7-489c-9f35-010e24a07cd7","id":"f258503f-7da3-402d-b0c8-6c306100e218"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":140.0,"toAmount":140.0,"dateTime":1709274600000,"categoryId":"447d7c2b-d694-4d69-9f51-ec084a7c1a37","id":"0c559fb5-9c7c-4974-abc2-9be7ff375256"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"INCOME","amount":12900.0,"toAmount":12900.0,"title":"NANNA","dateTime":1709188200000,"categoryId":"8f5d2a9f-0a40-460f-95ce-1d20eac6437f","id":"372387af-99b9-4cfb-9a67-ee254d6bf479"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":2000.0,"toAmount":2000.0,"dateTime":1706725800000,"categoryId":"1d7217dc-f818-4e0e-ab75-b4f91db6f46d","id":"cf5078bd-08d7-4036-952d-f8f46d168df8"},{"accountId":"ec670bf1-3552-41f0-8136-a0035562ed4a","type":"EXPENSE","amount":2000.0,"toAmount":2000.0,"dateTime":1704047400000,"categoryId":"1d7217dc-f818-4e0e-ab75-b4f91db6f46d","id":"3d038c4d-3786-41f7-9d1d-411c308c9aad"}],"sharedPrefs":{"transfers_as_inc_exp":"false","show_notifications":"true","hide_current_balance":"false","lock_app":"false"}}
+{
+    "accounts": [
+        {
+            "name": "Cash",
+            "color": -15414114,
+            "icon": "cash",
+            "id": "4500d7f7-c1d1-4251-abfa-c587af201bf8"
+        },
+        {
+            "name": "Bank",
+            "color": -13293952,
+            "icon": "bank",
+            "orderNum": 1.0,
+            "id": "032b1be9-2090-4d87-9955-3920dccc3d29"
+        }
+    ],
+    "categories": [
+        {
+            "name": "Food & Drinks",
+            "color": -15414114,
+            "icon": "fooddrink",
+            "id": "c83f2eba-8bfc-4eee-9e9e-b49cc873a007"
+        },
+        {
+            "name": "Bills & Fees",
+            "color": -49056,
+            "icon": "bills",
+            "orderNum": 1.0,
+            "id": "03630d87-5ca5-4747-bf75-2db3adb458f5"
+        },
+        {
+            "name": "Transport",
+            "color": -2151,
+            "icon": "transport",
+            "orderNum": 2.0,
+            "id": "37e28b25-f624-42c1-9161-0c67aa12d97b"
+        },
+        {
+            "name": "Groceries",
+            "color": -5573920,
+            "icon": "groceries",
+            "orderNum": 3.0,
+            "id": "0f45ec1a-d0fa-4eb5-bc61-2cd80a012fe3"
+        },
+        {
+            "name": "Entertainment",
+            "color": -876752,
+            "icon": "game",
+            "orderNum": 4.0,
+            "id": "b449358f-d87b-4401-994b-0f0ed63c5c87"
+        },
+        {
+            "name": "Shopping",
+            "color": -9744897,
+            "icon": "shopping",
+            "orderNum": 5.0,
+            "id": "374af472-318f-4651-aa1a-b53b3d45776a"
+        },
+        {
+            "name": "Gifts",
+            "color": -13099,
+            "icon": "gift",
+            "orderNum": 6.0,
+            "id": "ef33df35-122e-455f-b5a8-57afbb91e0bd"
+        },
+        {
+            "name": "Health",
+            "color": -2765569,
+            "icon": "health",
+            "orderNum": 7.0,
+            "id": "6211d720-57a6-44a0-acdb-247ffe91098d"
+        },
+        {
+            "name": "Investments",
+            "color": -13293952,
+            "icon": "leaf",
+            "orderNum": 8.0,
+            "id": "0a478f35-b020-47e7-9e43-3d644ff6639c"
+        },
+        {
+            "name": "Loans",
+            "color": -14261632,
+            "icon": "loan",
+            "orderNum": 9.0,
+            "id": "198651fa-752c-43bd-99a2-11e17e26eacd"
+        }
+    ],
+    "settings": [
+        {
+            "theme": "LIGHT",
+            "currency": "USD",
+            "bufferAmount": 1000.0,
+            "name": "",
+            "id": "93c124e5-d309-46a1-8f49-e205142ce7fb"
+        }
+    ],
+    "transactions": [
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 95.0,
+            "toAmount": 95.0,
+            "title": "CD",
+            "description": "Xbox cd",
+            "dateTime": 1709612460000,
+            "categoryId": "374af472-318f-4651-aa1a-b53b3d45776a",
+            "id": "ee1ee25d-9f35-4013-8200-092af0c155af"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 90.0,
+            "toAmount": 90.0,
+            "title": "Regular Groceries",
+            "description": "milk and more",
+            "dateTime": 1709526000000,
+            "categoryId": "0f45ec1a-d0fa-4eb5-bc61-2cd80a012fe3",
+            "id": "3f9efb86-0d68-4440-879c-580e31440b76"
+        },
+        {
+            "accountId": "032b1be9-2090-4d87-9955-3920dccc3d29",
+            "type": "EXPENSE",
+            "amount": 60.0,
+            "toAmount": 60.0,
+            "title": "Internet",
+            "description": "monthly bill",
+            "dateTime": 1709353200000,
+            "categoryId": "03630d87-5ca5-4747-bf75-2db3adb458f5",
+            "id": "ef3c340b-b12a-47ca-b394-8c6849cd98cc"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "INCOME",
+            "amount": 500.0,
+            "toAmount": 500.0,
+            "title": "From Bank",
+            "description": "temporary loan",
+            "dateTime": 1709266740000,
+            "categoryId": "198651fa-752c-43bd-99a2-11e17e26eacd",
+            "id": "4431a527-7737-4b99-b6eb-26dc12d5cd0b"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "EXPENSE",
+            "amount": 10.0,
+            "toAmount": 10.0,
+            "title": "Coke",
+            "dateTime": 1709093940000,
+            "categoryId": "c83f2eba-8bfc-4eee-9e9e-b49cc873a007",
+            "id": "9252098a-c881-4374-8828-b81a54403415"
+        },
+        {
+            "accountId": "4500d7f7-c1d1-4251-abfa-c587af201bf8",
+            "type": "EXPENSE",
+            "amount": 60.0,
+            "toAmount": 60.0,
+            "title": "Investment",
+            "description": "mutual fund",
+            "dateTime": 1708921320000,
+            "categoryId": "0a478f35-b020-47e7-9e43-3d644ff6639c",
+            "id": "8b2ae887-1e87-49af-986a-be2685bd689b"
+        }
+    ],
+    "sharedPrefs": {
+        "transfers_as_inc_exp": "false",
+        "show_notifications": "true",
+        "hide_current_balance": "false",
+        "lock_app": "false"
+    }
+}
